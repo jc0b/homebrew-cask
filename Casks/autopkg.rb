@@ -1,6 +1,6 @@
 cask "autopkg" do
   version "2.4.1"
-  sha256 "01cbe230c0e4301a8b6fa93d812c69a294e88fc253323a44935eefc61b9f4160"
+  sha256 "b4e8f9e50b429d19658285aa9a93b6fbf6d11c49743f4ee0026011444ef6c8da"
 
   url "https://github.com/autopkg/autopkg/releases/download/v#{version}/autopkg-#{version}.pkg",
       verified: "github.com/autopkg/autopkg/"
